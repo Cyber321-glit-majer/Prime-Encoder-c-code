@@ -1,6 +1,6 @@
 # Prime-Encoder-c++-code
 
-Problem Statement:
+**Problem Statement:**
 
 Given an integer array input[] and another integer input2, primeEncoder function returns an integer array by following these two steps:
 
