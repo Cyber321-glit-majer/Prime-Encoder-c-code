@@ -30,7 +30,9 @@ CODE:
 
 
 
-```#include <bits/stdc++.h>
+```
+//code
+#include <bits/stdc++.h>
 
 using namespace std;
 int
