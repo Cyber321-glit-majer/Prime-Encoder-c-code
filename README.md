@@ -18,15 +18,15 @@ Note:
 
 Function Prototype: int[] primeEncoder(int input1[], int input2)
 
-INPUT:
+**0INPUT:**
 input1[]=[1,2,3]
 input2=2
-OUTPUT:[4,5,6]
+**OUTPUT:**[4,5,6]
 
 
 
 
-CODE:
+**CODE:**
 
 
 
@@ -79,4 +79,4 @@ std::vector<int>v ;
      cout<<i<<" ";
  }
   return 0;
-}```
+}
